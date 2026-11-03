@@ -9,7 +9,7 @@ Free, works with no internet, and nothing you type ever leaves your computer.
 - Practice any rows you like: numbers, top, home or bottom
 - Pick your word length with a sound-bar control
 - Shows your speed, accuracy and mistakes as you go
-
+   ![Glass Keys while typing](docs/screenshot.png)
 ---
 
 ## Download
